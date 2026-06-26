@@ -1,0 +1,6 @@
+{
+  "name": "MRX.PG Creator AI",
+  "description": "DARK IA: Suíte premium de Inteligência Artificial com as cores do Instagram, gerador de legendas de alta performance e biblioteca de fotos de perfil ultra-estilizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
